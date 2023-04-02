@@ -1,5 +1,5 @@
 {
-    "name": "garyjl/yii2-simple_html_dom",
+    "name": "orhant/yii2-simple_html_dom",
     "description": "Simple HTML DOM parser for Yii 2 framework.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","html","parser"],
@@ -7,12 +7,8 @@
     "authors": [
         {
             "name": "S.C. Chen",
-            "email": "me578022@gmail.com",
-            "homepage": "http://simplehtmldom.sourceforge.net/"
-        },
-        {
-            "name": "G Liu",
-            "email": "garyjl21@gmail.com"
+            "email": "orhant@gmail.com"
+           
         }
     ],
 	"require":{
