@@ -3,7 +3,7 @@ namespace veo\simplehtmldom;
 
 require_once(dirname(__FILE__) . '/lib/simple_html_dom.php');
 
-class SimpleHtmlDom 
+class Dom 
 {
     // get html dom form file
     public static function file_get_html() 
